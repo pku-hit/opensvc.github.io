@@ -30,7 +30,7 @@ twitter_username: nona
 github_username:  kyugao
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
